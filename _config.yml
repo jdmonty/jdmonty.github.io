@@ -23,11 +23,11 @@ footer-links:
   flickr:
   github: jdmonty
   instagram:
-  linkedin:
+  linkedin: pub/john-montgomery/5/8b6/397
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: johndmonty
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  stackoverflow: users/224260/jdmonty # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
 disqus:
